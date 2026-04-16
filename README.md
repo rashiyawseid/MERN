@@ -1,5 +1,5 @@
-## SAGE CLASS
-# GIT HUB
+# SAGE CLASS
+## GIT HUB
 commands list
 git init
 git add .
