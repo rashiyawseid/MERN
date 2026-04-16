@@ -4,3 +4,7 @@ pwd
 rm
 mv
 cp
+-------------
+mkdir
+rmdir
+ping
